@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Take Notes</string>
+    <string name="no_text" />
+    <string name="author">Author</string>
+    <string name="note_type">Note Type</string>
+    <string name="note_area_hint">Write your note here</string>
+    <string name="text_input_hint">author</string>
+    <string name="available_notes_label">Available Notes</string>
+    <string name="save_btn_label">Save</string>
+    <string name="show_btn_label">Show</string>
+    <string name="back_to_note_lbl">Back</string>
+</resources>

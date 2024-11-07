@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prendi Nota</string>
+    <string name="author">Autore</string>
+    <string name="note_type">Tipo di nota</string>
+    <string name="note_area_hint">Scrivi la tua nota</string>
+    <string name="text_input_hint">autore</string>
+    <string name="available_notes_label">Available Notes</string>
+    <string name="save_btn_label">Save</string>
+    <string name="show_btn_label">Show</string>
+    <string name="back_to_note_lbl">Back</string>
+</resources>

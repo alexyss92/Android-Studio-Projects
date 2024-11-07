@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_size">90sp</dimen>
+    <dimen name="header_shadow_dy">7</dimen>
+    <dimen name="header_shadow_dx">10</dimen>
+    <dimen name="header_padding">16px</dimen>
+    <dimen name="subheader_text_size">50sp</dimen>
+    <dimen name="input_layout">40sp</dimen>
+</resources>

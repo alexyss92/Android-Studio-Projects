@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="header_text">Shopping Cart</string>
+    <string name="author_label">Autore</string>
+    <string name="author_label_hint">author</string>
+    <string name="name_label_list">Shopping list name</string>
+    <string name="hint_list_name">name</string>
+    <string name="btn_send_name_list">Send</string>
+    <string name="name_cart_label">Name shopping cart</string>
+    <string name="btn_save_cart">Save</string>
+    <string name="last_list_name">Last shopping cart</string>
+    <string name="all_cart_label">All Cart</string>
+    <string name="btn_add_new_cart">Add new cart</string>
+    <string name="list_cart">Insert here list shopping cart</string>
+    <string name="confirma_add_cart">Shopping list added correctly</string>
+    <string name="btn_show_cart">Show all cart</string>
+</resources>

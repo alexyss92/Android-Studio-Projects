@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Morra Cinese</string>
+    <string name="header_text_label">Make your choise</string>
+    <string name="ia_choise">My Choise</string>
+    <string name="paper_simbol_description">paper_simbol</string>
+    <string name="rock_simbol_description">Rock Simbol</string>
+    <string name="scissors_simbol_description">Scissors Simbol</string>
+    <string name="game_result_label">Are you happy?</string>
+</resources>

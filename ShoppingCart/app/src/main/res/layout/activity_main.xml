@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/activity_header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/subheader_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/author_label" />
+
+    <EditText
+        android:id="@+id/nameAuthor"
+        style="@style/input_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/author_label_hint"
+        android:inputType="textPersonName"
+        android:textColor="#151111" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/subheader_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name_label_list" />
+
+    <EditText
+        android:id="@+id/nameList"
+        style="@style/input_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_list_name"
+        android:inputType="textPersonName"
+        android:onClick="callCartActivity"
+        android:textColor="#3C3C3C" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="callCartActivity"
+        android:text="@string/btn_send_name_list" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_size">40sp</dimen>
+    <dimen name="header_offset_dy">3</dimen>
+    <dimen name="header_offset_dx">3</dimen>
+    <dimen name="header_shadow_blur">5</dimen>
+    <dimen name="simbol_width">128sp</dimen>
+    <dimen name="simbol_height">128sp</dimen>
+    <dimen name="other_text_size">24sp</dimen>
+
+</resources>

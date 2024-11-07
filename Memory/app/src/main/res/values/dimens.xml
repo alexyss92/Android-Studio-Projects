@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_size">35sp</dimen>
+    <dimen name="header_padding">15sp</dimen>
+    <dimen name="logo_size">80sp</dimen>
+    <dimen name="logo_margin_top">10sp</dimen>
+    <dimen name="user_text_size">18sp</dimen>
+    <dimen name="error">29sp</dimen>
+    <dimen name="my_margin">24sp</dimen>
+    <dimen name="icon_size">80sp</dimen>
+    <dimen name="label_size">22sp</dimen>
+    <dimen name="label_padding">8sp</dimen>
+    <dimen name="hat_img_size">78sp</dimen>
+    <dimen name="padding_image">3sp</dimen>
+    <dimen name="sub_label_size">16sp</dimen>
+</resources>

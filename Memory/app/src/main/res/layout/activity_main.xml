@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="center">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/welcome_message"
+    android:textSize="@dimen/header_size"
+    android:textColor="@color/my_header_colour"
+    android:textAlignment="center"
+    android:fontFamily="@font/lucky"
+    android:padding="@dimen/header_padding"
+    ></TextView>
+    
+    <ImageView
+        android:src="@drawable/game"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_size"
+        android:layout_marginTop="@dimen/logo_margin_top"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_player_name"
+        android:textSize="@dimen/header_size"
+        android:textColor="@color/my_header_colour"
+        android:textAlignment="center"
+        android:fontFamily="@font/cinzel"
+        android:layout_marginTop="@dimen/logo_margin_top"
+        ></TextView>
+
+    <EditText
+        android:id="@+id/nicknameField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cinzel"
+        android:textSize="@dimen/user_text_size"
+        android:hint="@string/player_name_hint"
+        android:textAlignment="center"
+        ></EditText>
+
+    <CheckBox
+        android:id="@+id/savePrefsBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cinzel"
+        android:textSize="@dimen/user_text_size"
+        android:text="@string/save_preferences_label"
+        android:textColor="@color/my_header_colour"
+        android:textStyle="bold"
+        ></CheckBox>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/my_header_colour"
+        android:fontFamily="@font/cinzel"
+        android:onClick="startGame"
+        android:text="@string/start_lbl_btn"
+        android:textColor="@drawable/button_text_colour"
+        android:textSize="@dimen/header_size"
+        android:textStyle="bold"></Button>
+</LinearLayout>
+

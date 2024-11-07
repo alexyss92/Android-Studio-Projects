@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="notes_types">
+        <item>Java</item>
+        <item>Php</item>
+        <item>SQL</item>
+        <item>UML</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>Personalizzato</item>
+    </array>
+</resources>

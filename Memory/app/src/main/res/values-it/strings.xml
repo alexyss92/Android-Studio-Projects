@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome">Welcome</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="choose_player_name">Your name is...</string>
+    <string name="player_name_hint">Choose your nickname</string>
+    <string name="save_preferences_label">Save in preferences</string>
+    <string name="start_lbl_btn">Start Game!</string>
+    <string name="empty_field_message">Input required</string>
+    <string name="counter_lbl">Attempts</string>
+    <string name="loose_message">Yuo loose!</string>
+    <string name="new_game_label">Play again?</string>
+    <string name="exit_game_label">End Game</string>
+</resources>

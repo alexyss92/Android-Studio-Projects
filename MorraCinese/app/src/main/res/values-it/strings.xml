@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_text_label">Fai la tua scelta</string>
+    <string name="ia_choise">Io invece scelgo</string>
+    <string name="paper_simbol_description">Immagine del simbolo della carta</string>
+    <string name="rock_simbol_description">Immagine del simbolo del sasso</string>
+    <string name="scissors_simbol_description">Immagine del simbolo della forbicel</string>
+    <string name="game_result_label">Sei felice di come è andata?</string>
+</resources>
